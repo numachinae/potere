@@ -1,0 +1,2 @@
+# potere
+potere -- power
